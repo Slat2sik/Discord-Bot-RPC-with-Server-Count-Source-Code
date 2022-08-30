@@ -14,3 +14,6 @@ Show your Discord bot's server count on your Discord profile using Top.gg's API 
 6. Save your `.env` and `src/variables.json` files.
 7. Open your Discord desktop client.
 8. Start the process using `node .` or use [PM2](https://pm2.keymetrics.io/) or equivalents.
+
+## Issues
+If you are having issues with seting up your server count onto your [Top.gg](https://top.gg/) bot please contact [oops#3013](https://discord.com/users/637501687338106885) on [Discord](https://discord.gg/)
