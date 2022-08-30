@@ -9,7 +9,8 @@ Show your Discord bot's server count on your Discord profile using Top.gg's API 
 1. Clone the repo to your PC.
 2. Install the NPM packages.
 3. Create your `.env` file to use your [Top.gg API key](https://docs.top.gg/api/@reference/).
-4. Customize your RPC data in `src/variables.json` to use [rich presence assets from your bot](https://discord.com/developers/applications) (`https://discord.com/developers/applications/:bot_id/rich-presence/assets`).
-5. Save your `.env` and `src/variables.json` files.
-6. Open your Discord desktop client.
-7. Start the process using `node .` or use [PM2](https://pm2.keymetrics.io/) or equivalents.
+4. In your `.env` file you need to include `API_KEY=YOUR_TOPGG_BOT_TOKEN`
+5. Customize your RPC data in `src/variables.json` to use [rich presence assets from your bot](https://discord.com/developers/applications) (`https://discord.com/developers/applications/:bot_id/rich-presence/assets`).
+6. Save your `.env` and `src/variables.json` files.
+7. Open your Discord desktop client.
+8. Start the process using `node .` or use [PM2](https://pm2.keymetrics.io/) or equivalents.
