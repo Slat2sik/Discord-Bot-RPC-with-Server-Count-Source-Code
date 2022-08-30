@@ -1,0 +1,15 @@
+{
+    "bot_id": "1002330889096794314",
+    "description": "Advanced ticking system!",
+    "assets": {
+        "large_image": "large",
+        "large_text": "Invite TicketBot"
+    },
+    "buttons": [{
+        "label": "Invite",
+        "url": "https://discord.com/api/oauth2/authorize?client_id=1002330889096794314&permissions=2416371792&scope=bot%20applications.commands"
+    }, {
+        "label": "Vote",
+        "url": "https://top.gg/bot/1002330889096794314/vote"
+    }]
+}
