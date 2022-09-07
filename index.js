@@ -4,7 +4,7 @@ const client = new rpc.Client({ transport: 'ipc' })
 
 require('dotenv').config();
 
-var rpcdata = require('./src/variables.json');
+var rpcdata = require('./src/variables');
 rpcdata.api_key = process.env.API_KEY;
 
 var lastServerCount = "0";

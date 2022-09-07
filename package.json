@@ -8,6 +8,6 @@
     "dependencies": {
         "discord-rpc": "*",
         "dotenv": "^16.0.1",
-        "node-fetch": "^2.6.1"
+        "node-fetch": "^2.6.7"
     }
 }
